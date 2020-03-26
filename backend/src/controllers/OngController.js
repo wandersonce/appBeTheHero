@@ -21,6 +21,6 @@ module.exports = {
             city,
             uf
         })
-
+        return res.json({ id });
     }
 }
