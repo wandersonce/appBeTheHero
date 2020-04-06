@@ -3,19 +3,21 @@
 
 # Be the Hero: Web Version ->
 ### Home Screen:
-<img src="https://user-images.githubusercontent.com/51806895/78523532-f4d24c80-7785-11ea-8710-5bcac81c5ce2.png"  width="40%"/>
-![image](https://user-images.githubusercontent.com/51806895/78523532-f4d24c80-7785-11ea-8710-5bcac81c5ce2.png)
+<img src="https://user-images.githubusercontent.com/51806895/78523532-f4d24c80-7785-11ea-8710-5bcac81c5ce2.png"  width="70%"/>
+
 ### Register Screen: 
-![image](https://user-images.githubusercontent.com/51806895/78523663-614d4b80-7786-11ea-9838-3bae4e93d760.png)
+<img src="https://user-images.githubusercontent.com/51806895/78523663-614d4b80-7786-11ea-9838-3bae4e93d760.png"  width="70%"/>
+
 ### Incidents Screen:
-![image](https://user-images.githubusercontent.com/51806895/78523746-9c4f7f00-7786-11ea-9acb-1528c2bfc317.png)
+<img src="https://user-images.githubusercontent.com/51806895/78523746-9c4f7f00-7786-11ea-9acb-1528c2bfc317.png"  width="70%"/>
+
 ### Incidents List:
-![image](https://user-images.githubusercontent.com/51806895/78523783-ba1ce400-7786-11ea-93ce-5e3dbbd35d63.png)
+<img src="https://user-images.githubusercontent.com/51806895/78523783-ba1ce400-7786-11ea-93ce-5e3dbbd35d63.png"  width="70%"/>
 
 
 # Mobile Version ->
-![Screenshot_20200405-214832_Expo](https://user-images.githubusercontent.com/51806895/78524142-f3a21f00-7787-11ea-8b7f-72fe21642f6b.jpg)
-![Screenshot_20200405-214839_Expo](https://user-images.githubusercontent.com/51806895/78524153-fbfa5a00-7787-11ea-92e1-eb21e6556a80.jpg)
+<img src="https://user-images.githubusercontent.com/51806895/78524142-f3a21f00-7787-11ea-8b7f-72fe21642f6b.jpg"  width="40%"/>
+<img src="https://user-images.githubusercontent.com/51806895/78524153-fbfa5a00-7787-11ea-92e1-eb21e6556a80.jpg"  width="40%"/>
 
 
 ### Using Axios and Expo api we were able to developt a REST api that is able to connect with they backend and test in the mobile app without
