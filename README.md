@@ -3,6 +3,7 @@
 
 # Be the Hero: Web Version ->
 ### Home Screen:
+<img src="https://user-images.githubusercontent.com/51806895/78523532-f4d24c80-7785-11ea-8710-5bcac81c5ce2.png"  width="40%"/>
 ![image](https://user-images.githubusercontent.com/51806895/78523532-f4d24c80-7785-11ea-8710-5bcac81c5ce2.png)
 ### Register Screen: 
 ![image](https://user-images.githubusercontent.com/51806895/78523663-614d4b80-7786-11ea-9838-3bae4e93d760.png)
